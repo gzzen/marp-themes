@@ -3,10 +3,10 @@
 
 :root {
     font-family: Helvetica, Arial, sans-serif;
-    --color-background: #fff;
-    --color-foreground: #333;
+    --color-background: white;
+    --color-foreground: black;
     --color-highlight: #f96;
-    --color-dimmed: #888;
+    --color-dimmed: white;
 }
 
 section {
