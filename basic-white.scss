@@ -1,0 +1,14 @@
+/* @theme basic-white */
+@import "gaia";
+
+:root {
+    font-family: Helvetica, Arial, sans-serif;
+    $color-light: white;
+    $color-dark: black;
+    $color-primary: #0288d1;
+    $color-secondary: #81d4fa;
+}
+
+section {
+    background-image: none;
+}

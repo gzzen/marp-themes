@@ -1,9 +1,10 @@
 /* @theme basic-white */
-
 @import "gaia";
 
 :root {
     font-family: Helvetica, Arial, sans-serif;
+    --color-background: white;
+    
 }
 
 section {
